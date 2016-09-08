@@ -1,2 +1,4 @@
 # bitcoin-de-market-depth-plot
-3-d plot of bitcoin.de market depth
+Just a test of 3d plotting with matplotlib. Takes data from [bitcoin.de](https://www.bitcoin.de/de/market) and updates a graph showing buy/sell market depth through time.
+
+![Example image](sample-plot.png)
